@@ -1,5 +1,5 @@
 {
-  "homepage": "https://<kinapolson>.github.io/<react-upd-exercise>",
+ "homepage": "https://kinapolson.github.io/react-upd-exercise/",
   "predeploy": "yarn run build",
   "deploy": "gh-pages -d build",
   "name": "updated-exer-app",
